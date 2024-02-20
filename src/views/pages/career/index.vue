@@ -3,6 +3,6 @@
 
 <template>
   <div>
-    <h2>Hello gang</h2>
+    <h2>Career Page</h2>
   </div>
 </template>
